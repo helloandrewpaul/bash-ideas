@@ -1,0 +1,1 @@
+kinda a sketchbook of simple BASH automation for myself
