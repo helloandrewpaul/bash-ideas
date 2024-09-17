@@ -9,7 +9,6 @@ mkdir "${DIR}" && cd $_
 
 sleep 0.5
 
-
 wget "http://${URL}/robots.txt" -O "robots-${OUTPUT}"
 
 sleep 0.5
